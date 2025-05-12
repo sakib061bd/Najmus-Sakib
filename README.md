@@ -1,8 +1,11 @@
 # Sakib’s Quantum Substrate Theory (QST): A Unified Framework for Gravity, Quantum Mechanics and Cosmology
 Name: Najmus Sakib
+
 E-mail: sakib061bd@gmail.com
+
 Contact:
 Phone/WhatsApp:+8801710424280
+
 Address: Kumarkenda,Lohagora,Narail,Khulna,Bangladesh.
 
 
