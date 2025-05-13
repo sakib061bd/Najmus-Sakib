@@ -10,3 +10,8 @@ Address: Kumarkanda,Lohagora,Narail,Khulna,Bangladesh.
 
 
 I present a complete and self-consistent theory which can dynamic  framework unifies quantum mechanics, general relativity, and cosmology. The theory resolves long-standing problems including the nature of dark energy, the quantum-gravity unification, and the matter-antimatter asymmetry, while predicting novel testable phenomena. I derive the mathematical foundations, establish empirical consistency, and outline experimental verification pathways. Finally, I discuss the philosophical implications and potential technological revolutions enabled by this paradigm.
+
+\documentclass{article}
+\begin{document}
+Hello, \LaTeX! Here’s a math formula: \(E = mc^2\).
+\end{document}
